@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a passionate Software Engineering student at the University of Waterloo with a strong foundation in full-stack development, embedded systems, and robotics. I love building intuitive applications, working with emerging technologies, and solving real-world problems with code. 
 
-With experience and dedication to software engineering, I've worked on diverse projects, from full-stack applications to AI-driven automation and robotics solutions. I am always eager to create efficient and impactful software solutions.
+With experience and dedication to software engineering, I've worked on diverse projects, from full-stack applications to scripting and automation. I am always eager to create efficient and impactful software solutions.
 
 ## 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayyan.husein@uwaterloo.ca)
